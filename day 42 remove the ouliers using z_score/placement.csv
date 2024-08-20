@@ -1,0 +1,13 @@
+first of all we find the outliers 
+how the treat ouliers     1.trimming 2.capping
+
+trimming: trimming is a technique where we remove the outliers from the data 
+
+it is used  when the outliers are less in the data 
+
+but when the outliers are more in the data so we used capping 
+
+tapping : is a technique where we handle the outlier by using the upper limit value and lower limit value 
+
+  those value which is greter than upper limit so we replace  these value by upper limit 
+  and those value which is smaller than the lower limit value so this value replace by lowerlimit 
